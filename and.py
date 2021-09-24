@@ -26,3 +26,4 @@ _ = model.total_loss()
 
 save_model(model, filename="and.model")
 save_plot(df, file_name="and.png", model= model)
+#Actual changes done
